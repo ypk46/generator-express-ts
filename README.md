@@ -1,3 +1,3 @@
-# Express TS
+# Type Express
 
-Express TS is a Yeoman Generator for Express + Typescript projects.
+Type Express is a Yeoman Generator for Express + Typescript projects.
