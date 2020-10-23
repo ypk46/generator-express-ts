@@ -1,0 +1,16 @@
+{
+  "name": "generator-express-ts",
+  "version": "0.1.0",
+  "description": "A Yeoman generator for Express Typescript projects.",
+  "main": "index.js",
+  "license": "MIT",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^4.12.0"
+  }
+}
