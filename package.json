@@ -10,7 +10,7 @@
     "url": "https://github.com/ypk46/generator-type-express"
   },
   "files": [
-    "generators"
+    "app"
   ],
   "keywords": [
     "api",
